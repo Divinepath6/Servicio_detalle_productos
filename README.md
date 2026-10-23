@@ -1,6 +1,6 @@
 El servicio se llama así: <br>
 /producto/?<br>
-Donde el "?" es el id del producto y obviamente antes la url que tengas,
+Donde el "?" es el id del producto y obviamente antes la url que tengas, y cambia el la cadena de conexion del config,
 ejemplo local al pedir el producto con id 1:<br>
 http://127.0.0.1:5000/api/producto/1<br>
 Deberia Regresar algo asi: <br>
